@@ -1,3 +1,5 @@
-﻿First Name,Last Name,Email,CC,BCC,svfd x
-William,Odhiambo,odhiambo.william@magnaglobal.com,aman.sharma@magnaglobal.com,,
-Aman ,Sharma,aman.sharma@magnaglobal.com,odhiambo.william@magnaglobal.com,,
+﻿First Name,Last Name,Email,CC,BCC,
+John,Doe,john.doe@example.com,jane.doe@example.com,,
+Jane,Doe,jane.doe@example.com,john.doe@example.com,,
+Alex,Smith,alex.smith@example.com,emma.jones@example.com,,
+Emma,Jones,emma.jones@example.com,alex.smith@example.com,,
